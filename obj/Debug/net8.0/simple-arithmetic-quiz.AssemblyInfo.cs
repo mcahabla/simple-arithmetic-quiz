@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simple-arithmetic-quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e222a347a4bb71c35ea3c6160336a18c9c40ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5540e09ea57824b2138c4c735a58560f8848f051")]
 [assembly: System.Reflection.AssemblyProductAttribute("simple-arithmetic-quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simple-arithmetic-quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
