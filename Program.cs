@@ -7,7 +7,7 @@ namespace ArithmeticQuiz
         static void Main(string[] args)
         {
             //creates singles random number generator
-            Random random = new Random();
+            Random random = new Random(); //new instance of the Random C# class
 
             //random number of questions between 5 - 15
             int totalQuestions = random.Next(5,15);
