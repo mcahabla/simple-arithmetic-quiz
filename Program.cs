@@ -10,7 +10,7 @@ namespace ArithmeticQuiz
             Random random = new Random(); //new instance of the Random C# class
 
             //random number of questions between 5 - 15
-            int totalQuestions = random.Next(5,15);
+            int totalQuestions = random.Next(5,16);
 
             //initialize correctAnswers variable to 0
             int correctAnswers = 0;
