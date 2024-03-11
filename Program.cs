@@ -40,7 +40,7 @@ namespace ArithmeticQuiz
                         correctAnswer = number1 * number2;
                         break;
                     case '/':
-                        correctAnswer = (int)number1 / number2;
+                        correctAnswer = Math.Round((double)number1 / number2, 2);
                         break;
                 }
 
